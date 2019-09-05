@@ -1,0 +1,17 @@
+{
+    "model": "nn",
+    "features": {
+        "verified_price": false,
+        "city": "Киев",
+        "district": "Центр",
+        "total_square": 40,
+        "living_square": 20,
+        "kitchen_square": 10,
+        "room_count": 2,
+        "floor": 5,
+        "floor_count": 8,
+        "walls_material": "панель",
+        "heating": "индивидуальное",
+        "apartment_type": "Вторичное жилье"
+    }
+}
