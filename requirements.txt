@@ -1,5 +1,5 @@
 lightgbm==2.2.3
-Flask==1.1.1
+Flask==2.3.2
 numpy==1.17.0
 pandas==0.25.0
 pandas-profiling==2.3.0
